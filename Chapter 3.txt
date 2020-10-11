@@ -2,7 +2,7 @@
 # Chapter 3                                              #
 ##########################################################
 
-This is a semple text.
+This is a sample text.
 
 (Find some typos here)
 
@@ -18,7 +18,7 @@ Why did the chicken crossed the road?
 
 Fish flew into the space station.
 
-All she wanted was the answer, but he had no idea how much she would hate it.
+All she wanted was the answer, but she had no idea how much she would hate it.
 
 Seek success, but always be prepared for random cats.
 
@@ -42,7 +42,7 @@ Surprisingly, he figured a few sticks of dynamite were easier than a fishing pol
 
 The delicious aroma from the kitchen was ruined by cigarette smoke.
 
-If my calculator had a history, it would be more embarassing than my browser history.
+If my calculator had a history, it would be more embarrassing than my browser history.
 
 Making a demonstrative presentation of GitHub was a total mistake.
 
